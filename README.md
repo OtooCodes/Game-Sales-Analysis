@@ -38,10 +38,10 @@ Some visual insights include:
 * 📌 Yearly sales trends
 
 ## 📂 File Info
+- **Notebook**: [Game_Sales_Analysis.ipynb](https://colab.research.google.com/drive/1s6X2rHgytMAKP4pXGozGd9sAwSfctCJY?usp=drive_link) – View and run it on Google Colab  
+- **Total Code Cells**: 19  
+- **Total Markdown Cells**: 11  
 
-* **Notebook**: `Game_Sales_Analysis.ipynb`
-* **Total Code Cells**: 19
-* **Total Markdown Cells**: 11
 
 ## 🚀 How to Use
 
